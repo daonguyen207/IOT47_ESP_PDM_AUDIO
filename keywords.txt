@@ -1,0 +1,3 @@
+pdm_init	KEYWORD1
+audio_play	KEYWORD1
+audio_isPlaying KEYWORD1
